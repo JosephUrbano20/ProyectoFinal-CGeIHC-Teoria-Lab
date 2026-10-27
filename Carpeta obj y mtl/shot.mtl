@@ -1,0 +1,21 @@
+
+newmtl Material.001
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/vidrio_claro.png
+
+newmtl Mesita
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/madera.jpg
+
+newmtl Tequila
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/tequila_dorado.jpg

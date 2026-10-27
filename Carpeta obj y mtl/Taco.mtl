@@ -1,0 +1,35 @@
+
+newmtl Carne
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/taco_carne.jpg
+
+newmtl Cilantro
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/taco_cilantro.jpg
+
+newmtl Mesa
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/madera.jpg
+
+newmtl Tomate
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/taco_tomate.jpg
+
+newmtl Tortilla
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/taco_tortilla.jpg

@@ -1,0 +1,65 @@
+
+# Materiales de la bandera mexicana
+
+newmtl Aguila
+Ns 40.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/aguila.jpg
+
+newmtl Asta
+Ns 360.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/oro.jpg
+
+newmtl BaseBandera
+Ns 250.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/oro.jpg
+
+newmtl BlancoBandera
+Ns 90.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/bandera_blanco.jpg
+
+newmtl Bolita.001
+Ns 250.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/base_dorada.jpg
+
+newmtl RojoBandera
+Ns 90.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/bandera_rojo.jpg
+
+newmtl VerdeBandera
+Ns 90.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+d 1.0
+illum 2
+map_Kd Texturas/bandera_verde.jpg

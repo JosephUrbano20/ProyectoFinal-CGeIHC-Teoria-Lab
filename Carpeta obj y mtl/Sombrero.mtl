@@ -1,0 +1,14 @@
+
+newmtl Material.001
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/sombrero_paja.jpg
+
+newmtl Material.002
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/sombrero_paja.jpg
