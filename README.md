@@ -15,7 +15,7 @@ Algunos de los modelos incluidos son:
 - Taco
 - Chiles
 - Nopal
-- Jarrito de barro
+- Sombrero
 - Caballito de tequila
 - Molcajete
 - Otros elementos de cultura mexicana
