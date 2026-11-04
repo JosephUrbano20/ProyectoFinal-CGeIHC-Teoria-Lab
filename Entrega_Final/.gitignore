@@ -1,0 +1,22 @@
+# Archivos temporales de Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+
+# Archivos generados al compilar
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Configuraciones personales
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Archivos temporales
+Thumbs.db

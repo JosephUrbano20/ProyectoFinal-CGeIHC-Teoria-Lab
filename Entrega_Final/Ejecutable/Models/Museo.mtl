@@ -1,0 +1,250 @@
+# Materiales texturizados para Museo.obj; rutas relativas a Models/
+
+newmtl AluminioBarandal
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.351533 0.371238 0.401978
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd Texturas/metal.jpg
+
+newmtl MarmolPedestal
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.920000 0.910000 0.880000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/marmol.jpg
+
+newmtl VidrioBarandal
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.623961 0.806952 0.887923
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.300000
+illum 9
+map_Kd Texturas/vidrio_claro.png
+
+newmtl horse_statue_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/oro.jpg
+
+newmtl horse_statue_01_base
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/yeso.jpg
+
+newmtl marble_bust_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/yeso_claro.jpg
+
+newmtl painted_wooden_bench
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/madera.jpg
+
+newmtl planter_box_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/madera.jpg
+
+newmtl potted_plant_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/maceta.jpg
+
+newmtl quiver_tree_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/pastoprueba.jpg
+
+newmtl shrub_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/pastoprueba.jpg
+
+newmtl street_lamp_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/metal.jpg
+
+newmtl street_lamp_02_bulb
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/luz.png
+
+newmtl street_lamp_02_glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Texturas/vidrio_claro.png
+
+newmtl MuseoParedes
+Ka 1.0 1.0 1.0
+Kd 0.9 0.89 0.87
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/afuera.jpg
+
+newmtl MuseoTechados
+Ka 1.0 1.0 1.0
+Kd 0.7 0.7 0.68
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/afuera.jpg
+
+newmtl MuseoJardin
+Ka 1.0 1.0 1.0
+Kd 0.36 0.55 0.31
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/suelomuseo.jpg
+
+newmtl MuseoEscaleras
+Ka 1.0 1.0 1.0
+Kd 0.67 0.67 0.64
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/stairs.jpg
+
+newmtl MuseoPuentes
+Ka 1.0 1.0 1.0
+Kd 0.55 0.48 0.4
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/stairs.jpg
+
+newmtl MuseoAzotea
+Ka 1.0 1.0 1.0
+Kd 0.72 0.71 0.69
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/piedra.jpg
+
+newmtl MuseoCupula
+Ka 1.0 1.0 1.0
+Kd 0.92 0.92 0.9
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/yeso_claro.jpg
+
+newmtl MuseoVidrio
+Ka 1.0 1.0 1.0
+Kd 0.67 0.78 0.84
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/vidrio_claro.png
+
+# Palmeras con tronco separado de las hojas; ambas texturas ya estan en Models/Texturas
+newmtl PalmeraTronco
+Ka 1.0 1.0 1.0
+Kd 0.7 0.6 0.47
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/palmera.jpg
+
+newmtl PalmeraHojas
+Ka 1.0 1.0 1.0
+Kd 0.55 0.72 0.53
+Ks 0.0 0.0 0.0
+illum 2
+map_Kd Texturas/hojas_palmera.jpg
+
+# Material metalico para las lamparas duplicadas
+newmtl street_lamp_02.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/metal.jpg
+
+# Material de los focos
+newmtl street_lamp_02_bulb.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/luz.png
+
+# Material de los cristales
+newmtl street_lamp_02_glass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.900000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/vidrio_claro.png

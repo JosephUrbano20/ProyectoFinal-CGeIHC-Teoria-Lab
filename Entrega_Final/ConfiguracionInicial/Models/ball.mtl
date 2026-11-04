@@ -1,0 +1,16 @@
+
+# Material de la estrella con textura original
+
+newmtl AmarilloEstrella
+Ns 10.0000
+Ni 1.5000
+d 0.4600
+Tr 0.5400
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka amarillo.jpg
+map_Kd amarillo.jpg
+

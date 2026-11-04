@@ -1,0 +1,28 @@
+
+newmtl Chile_Naranja
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/chile_naranja.jpg
+
+newmtl Chile_Rojo
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/chile_rojo.jpg
+
+newmtl Chile_Verde
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/chile_verde.jpg
+
+newmtl Mesa
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+d 1.0
+illum 2
+map_Kd Texturas/madera.jpg
